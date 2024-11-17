@@ -1,0 +1,6 @@
+Customer Name,Email,Content,Status
+John Doe,john.doe@example.com,I need help with my order.,NEW
+Jane Smith,jane.smith@example.com,Can you assist with billing?,NEW
+Alice Brown,alice.brown@example.com,When will my package arrive?,NEW
+Michael Johnson,michael.johnson@example.com,I received a damaged product.,NEW
+Emma Davis,emma.davis@example.com,Can I update my shipping address?,RESPONDED
